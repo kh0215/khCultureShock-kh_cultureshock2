@@ -1,5 +1,3 @@
-# khCultureShock-kh_cultureshock2
-# kh_cultureshock2
 # Project - Culture Shock
 
 ### • 프로젝트 소개
