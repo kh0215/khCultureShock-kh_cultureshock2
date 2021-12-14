@@ -6,7 +6,7 @@
 
 ### • 작업 환경
 |설정|설정명|
-|—|—|
+|—-|—-|
 |운영체제|window10|
 |개발도구|STS, Spring|
 |DBMS|Oracle DB - sql Developer|
